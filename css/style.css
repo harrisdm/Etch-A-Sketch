@@ -1,0 +1,33 @@
+
+#controls {
+	width: 600px;
+	margin: 0px auto;
+}
+#controls button {
+	float: right;
+	text-align: center;
+	padding: 10px;
+	margin: 10px 5px;
+	background-color: #f0e930;
+}
+
+#container {
+	width: 600px;
+	clear: both;
+	margin: 0px auto;
+}
+
+.box {
+	float: left;
+	border: 1px solid #000000;
+	display: inline-block;
+}
+
+.end_row {
+	clear: both;
+}
+
+.square_lit {
+	background-color: #000000;
+}
+
