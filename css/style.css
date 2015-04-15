@@ -3,6 +3,7 @@
 	width: 600px;
 	margin: 0px auto;
 }
+
 #controls button {
 	float: right;
 	text-align: center;
@@ -11,7 +12,7 @@
 	background-color: #f0e930;
 }
 
-#container {
+#sketchContainer {
 	width: 600px;
 	clear: both;
 	margin: 0px auto;
@@ -27,7 +28,7 @@
 	clear: both;
 }
 
-.square_lit {
+.box_lit {
 	background-color: #000000;
 }
 
